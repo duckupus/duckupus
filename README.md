@@ -2,9 +2,8 @@
 # Focusing on being unfocused 🎯
 ## github stats!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckupus&count_private=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckupus&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### Website (which I'm really lazy to work on): https://duckupus.github.io/
 <!--
 **duckupus/duckupus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
