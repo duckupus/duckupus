@@ -3,7 +3,7 @@
 ## github stats!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duckupus&count_private=true&theme=gruvbox)
 
-### Website (which I'm really lazy to work on): https://duckupus.github.io/
+### Website: https://duckupus.github.io/
 <!--
 **duckupus/duckupus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
